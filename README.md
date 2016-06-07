@@ -1,2 +1,2 @@
 # Exploratory-Data-Analysis
-Coursera Class
+Website: http://pivotlogix.github.io/Exploratory-Data-Analysis
